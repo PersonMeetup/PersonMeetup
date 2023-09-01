@@ -1,5 +1,7 @@
-[I like to create stuff.](https://personmeetup.ca/)
+["Who is this Person anyway?"](https://personmeetup.ca/)
 
+Working on [Portal: Catalyst](https://www.moddb.com/mods/portal-catalyst) and [Covalria Sow](http://covalriasow.com)
+pfp: [DA@BloodyArchimedes](https://www.deviantart.com/rayhenderson)
 <!--
 **PersonMeetup/PersonMeetup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
